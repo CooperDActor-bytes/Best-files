@@ -1,4 +1,4 @@
 Create A Pull Request And Add your Favorite apt or yum file
-sudo apt install docker-compose docker.io 
+sudo apt install docker-compose docker.io wget
 sudo yum install docker docker-compose 
 sudo snap install apt docker
